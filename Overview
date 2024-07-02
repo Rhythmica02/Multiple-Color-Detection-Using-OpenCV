@@ -1,0 +1,15 @@
+# Multiple Color Detection Using OpenCV
+
+This project demonstrates a real-time multiple color detection application using OpenCV and Python. The program captures video from the webcam and identifies objects of red, green, and blue colors in the video stream. The detected colors are highlighted with bounding rectangles and labeled accordingly.
+
+## Features
+- **Real-Time Detection:** Captures video from the webcam and processes it in real-time.
+- **Multiple Colors:** Detects and highlights red, green, and blue colors.
+- **Object Contours:** Draws bounding rectangles around detected color objects and labels them.
+- **Customizable:** Easily extendable to detect additional colors by modifying the color ranges.
+
+## Requirements
+- Python 3.x
+- OpenCV (cv2)
+- NumPy
+
